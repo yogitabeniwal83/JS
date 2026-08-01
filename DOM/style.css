@@ -1,0 +1,14 @@
+.heading-class{
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+p{
+    color: white;
+    background-color: black;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
